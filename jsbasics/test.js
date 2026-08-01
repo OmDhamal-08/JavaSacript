@@ -1,1 +1,3 @@
 console.log("Om Dhamal")
+
+//JavaScript is neither purely interpreted nor purely compiled in modern engines. It uses Just-In-Time (JIT) compilation. The engine first parses the source code, generates bytecode, and begins executing it. Frequently executed code is then compiled into optimized native machine code, improving performance. Older JavaScript engines were mostly interpreted, but modern engines like V8 use JIT compilation.
