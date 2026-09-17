@@ -1,4 +1,5 @@
-// singlton boject creation means only one instance of the object we can use it anywhere in the programm 
+// singlton object creation means only one instance of the object we can use it anywhere in the programm 
+
 // non singlton means many instances of the object 
 // we noramlly use non singlton object means this type of object is get created in our programs 
 // this is called as object literals 
@@ -44,7 +45,7 @@ JsUser.greeting = function()
 JsUser.greetingTwo = function(){
     console.log(`Hello JS user, ${this.name}`);
 }
-// using this we can dirctly access the fields in the object
+// using 'this' we can dirctly access the fields in the object
 
 console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
