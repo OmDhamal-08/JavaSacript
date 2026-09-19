@@ -49,9 +49,11 @@ function addone(num)
 }
 
 console.log(addone(5))
+// hoisted 
 
 const addtwo=function(num)
 {
     return num+2
 }
 console.log(addtwo(5))
+// non hoisted 
