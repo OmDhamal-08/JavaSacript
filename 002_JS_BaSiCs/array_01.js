@@ -66,3 +66,28 @@ console.log("Spliced array ",array3);
 
 
 
+
+
+
+
+
+// tryint the git hub features 
+
+// JavaScript Arrays
+
+// let fruits = ["Apple", "Banana", "Mango"];
+
+// console.log(fruits);
+
+// // Add an element
+// fruits.push("Orange");
+
+// console.log(fruits);
+
+// // Remove the last element
+// fruits.pop();
+
+// console.log(fruits);
+
+// // Access an element
+// console.log(fruits[0]);
